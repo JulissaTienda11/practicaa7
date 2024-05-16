@@ -1,0 +1,9 @@
+DE:X, Y
+DS:Z
+
+Inicio
+Leer x
+Leer y
+Sumar x+y
+Mostrar resultado en z
+Fin
